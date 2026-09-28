@@ -1,0 +1,60 @@
+{
+  "type": "component",
+  "name": "foo",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "4SNJC6atr3OH9QPw1Jw0B",
+        "name": "ff"
+      },
+      {
+        "id": "UM-pRx6roMoXW11GcrJOf",
+        "name": "dir"
+      }
+    ],
+    "scripts": [
+      {
+        "id": "YABUSzC3OoeeDvHWDzTeJ",
+        "name": "dir"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "l301SOLiBne8yGnTvmpo3",
+        "name": "test"
+      }
+    ]
+  },
+  "externalScripts": [
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.8/js/bootstrap.min.js",
+      "properties": {
+        "type": "default",
+        "executionMode": "default",
+        "crossorigin": "anonymous",
+        "referrerpolicy": "default"
+      }
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "test/aaa.css",
+      "parentDirectoryId": "l301SOLiBne8yGnTvmpo3"
+    }
+  ],
+  "localScripts": [
+    {
+      "path": "index.js"
+    },
+    {
+      "path": "dir/inner.js",
+      "parentDirectoryId": "YABUSzC3OoeeDvHWDzTeJ"
+    }
+  ]
+}

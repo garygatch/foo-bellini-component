@@ -1,0 +1,43 @@
+{
+  "type": "custom-component",
+  "name": "c1",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [
+      {
+        "id": "IqVeuswVyoEneWwuwVG63",
+        "name": "components"
+      }
+    ],
+    "components": [],
+    "scripts": [
+      {
+        "id": "ULUprufk1T3RNhZBPbv6Q",
+        "name": "components"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "khd5p8U6Sl1B6StKTb86f",
+        "name": "components"
+      }
+    ]
+  },
+  "parentDirectoryId": "4SNJC6atr3OH9QPw1Jw0B",
+  "localStylesheets": [
+    {
+      "path": "components/bar.css",
+      "parentDirectoryId": "khd5p8U6Sl1B6StKTb86f"
+    }
+  ],
+  "localScripts": [
+    {
+      "path": "components/bar.js",
+      "parentDirectoryId": "ULUprufk1T3RNhZBPbv6Q"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "custom-component",
+  "name": "gg",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [],
+    "scripts": [
+      {
+        "id": "P-9yunQZrcEYwE7zPDnfL",
+        "name": "gg"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "EgwIrdGLP0so_h2LV-vpo",
+        "name": "dir"
+      }
+    ]
+  },
+  "parentDirectoryId": "UM-pRx6roMoXW11GcrJOf",
+  "externalScripts": [
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.8/js/bootstrap.min.js",
+      "properties": {
+        "type": "default",
+        "executionMode": "default",
+        "crossorigin": "anonymous",
+        "referrerpolicy": "default"
+      }
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "dir/test.css",
+      "parentDirectoryId": "EgwIrdGLP0so_h2LV-vpo"
+    }
+  ],
+  "localScripts": [
+    {
+      "path": "gg/aa.js",
+      "parentDirectoryId": "P-9yunQZrcEYwE7zPDnfL"
+    },
+    {
+      "path": "test.js"
+    }
+  ]
+}
