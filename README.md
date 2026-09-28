@@ -1,0 +1,1 @@
+# foo-bellini-component
